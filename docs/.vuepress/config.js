@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Hello VuePress',
-  description: 'Just playing around',
+  title: '许宇轩的文档',
+  description: '技术文档',
   base:"/myDocument/",
   themeConfig: {
     nav: [
@@ -10,7 +10,7 @@ module.exports = {
     ],
     sidebar: [
       ['/', '简介'],
-      // ['/cst/cst.md', '车商通'],
+      ['/guide/', '引导'],
       // ['/new/index1.md', '发布新框架'],
       // ['/feedback/feedback.md', '问题反馈']
   ]
