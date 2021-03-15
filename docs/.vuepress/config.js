@@ -11,7 +11,7 @@ module.exports = {
     sidebar: [
       ["/", "简介"],
       ["/guide/", "引导"],
-      ["/git", "git"],
+      ["/git/", "git"],
     ],
   },
 };
