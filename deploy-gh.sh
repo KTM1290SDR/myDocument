@@ -8,8 +8,8 @@ npm run docs:build
 
 git add .
 git commit -m 'deploy commit'
-git pull origin
-git push origin
+git pull origin master
+git push origin master
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
