@@ -25,6 +25,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:KTM1290SDR/myDocument.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
+# https://ktm1290sdr.github.io/myDocument
 git push -f git@github.com:KTM1290SDR/myDocument.git master:gh-pages
 
 cd -
