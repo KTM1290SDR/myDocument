@@ -11,12 +11,16 @@ module.exports = {
     sidebar: [
       ["/", "简介"],
       {
+        title: "网络协议",
+        path: "/networkProtocol/",
+        sidebarDepth: 1,
+        children: [],
+      },
+      {
         title: "JavaScript",
         path: "/JavaScript/",
         sidebarDepth: 1,
-        children: [
-
-        ],
+        children: [],
       },
       // {
       //   title: "算法和数据结构",
